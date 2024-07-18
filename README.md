@@ -1,9 +1,9 @@
-<h1 align="center">Desarrollador Backend y Frontend Junior</h1>
+<h1 align="center">Desarrollador Full Stack</h1>
 
 ###
 
 <div align="center">
-  <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
+  <img height="150" src="[[https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966](https://images.pexels.com/photos/11035482/pexels-photo-11035482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)](https://images.pexels.com/photos/11035482/pexels-photo-11035482.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1)"  />
 </div>
 
 ###
@@ -20,7 +20,7 @@
 
 ###
 
-<p align="left">Mi nombre es Juan Jose Villlamizar soy un desarrollador Junior <br><br>- 🔭 Actualmente trabajo en proyectos personales<br>- 📚 Estudiante Campusland<br>- ⚡ Actualmente aprendiendo TypeScript y AWS</p>
+<p align="left">Mi nombre es Juan Jose Villlamizar soy un desarrollador Junior <br><br>- 🔭 Actualmente trabajo en proyectos personales<br>- 📚 Estudiante Alura Latam  Oracle ONE y Campusland<br>- ⚡ Actualmente aprendiendo TypeScript y AWS</p>
 
 ###
 
